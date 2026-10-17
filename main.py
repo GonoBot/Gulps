@@ -158,7 +158,7 @@ def process_url(url):
 
 
 print("================================")
-print("       DOWNLOADER V7")
+print("         Gulps V0.1")
 print("================================")
 print("Any URL supported by yt-dlp can be attempted.")
 print("Image downloading is enabled.")
