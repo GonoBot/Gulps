@@ -98,7 +98,7 @@ As you already guess this codes are not refined since I am not that great in thi
   
 - Then what can I download?
   
-  Right what you can download you can download anything what is available as a public content no matter what website it is as long as it does not hide behind the Login, Age Restriction or CAPTCHAs (where the heck captcha is come from well~ ask the cloudflare since it prevents and bot or like single a** us) there is a two platform *reddit* and *thread* which is not working with my code, why since Reddit have a login and cookies issue and as for thread it's work sometime sometime it got failed since it's have more age restriction content then any other. So, I just throw this in not working category.
+  Right, what you can download? you can download anything, which is available as a public content no matter what website it is as long as it does not hide behind the Login, Age Restriction or CAPTCHAs (where the heck captcha is come from well~ ask the cloudflare since it prevents any bot or like single a** who have no love life. Like us) there is a two platform *reddit* and *thread* which is not working with my code, why since Reddit have a login and cookies issue and as for thread it's work sometime sometime it got failed since it's have more age restriction content then any other. So, I just throw this in not working category.
   
   ONE MORE THING It's work with any platform and website which provide yt-dlp support that mean 🌚🌝
   
@@ -110,4 +110,4 @@ As you already guess this codes are not refined since I am not that great in thi
 
 After many errors and trials I understand one thing in order to solve the login and cookie problem there is only one way since I can't bypass them then I need to provide what it ask for, so what is the perfect way to solve this problem? you just need to connect this code with your browser which take the live cookies and login data directly from your browser that way you can able to download those videos which is hide behind Wall.
 
-The most funny part is I never create something like this so you need to create own your own lol 😂.
+The most funny part is I never create something like this so you need to create own your own lol 😂. Hope you work you a&& of to improve this 😭
